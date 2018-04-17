@@ -1,6 +1,6 @@
 {
   "name": "nqm",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/beizhedenglong/nqm"
   },
   "bin": "./index.js",
   "author": {
@@ -21,7 +21,8 @@
     "chalk": "^2.4.0",
     "clui": "^0.3.6",
     "commander": "^2.15.1",
-    "inquirer": "^5.2.0"
+    "inquirer": "^5.2.0",
+    "nqm": "^0.0.2"
   },
   "devDependencies": {
     "eslint": "^4.19.1",
