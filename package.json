@@ -1,0 +1,30 @@
+{
+  "name": "nqm",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bin": "./index.js",
+  "author": {
+    "email": "wang_shaojie@icloud.com",
+    "name": "beizhedenglong(Victor Wang)"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "chalk": "^2.4.0",
+    "clui": "^0.3.6",
+    "commander": "^2.15.1",
+    "inquirer": "^5.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "standard": "^11.0.1"
+  }
+}
