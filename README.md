@@ -1,6 +1,6 @@
 # NQM
 
-When you want to install a specific package, but don't remember full name of it. Don't worry, `nqm` come to rescue.
+When you want to install a specific package, but don't remember full name of it. Don't worry, `nqm` come to rescue.
 
 nqm(nqm = npm + query) is a JavaScript package manager with query command.
 
