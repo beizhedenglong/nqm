@@ -12,8 +12,8 @@ nqm has an additional command `query`(alias is `q`) for searching packages. Othe
 `npm i nqm -g`
 
 ## Usage
-`nqm query --save react`
+`nqm query react --save`
 or 
-`nqm q --save react`
+`nqm q react --save `
 
 
