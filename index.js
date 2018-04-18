@@ -69,7 +69,7 @@ const fectchPackage = (query) => {
 }
 
 program
-  .version('0.0.1')
+  .version('0.0.3')
   .command('query [pkg]')
   .alias('q')
   .allowUnknownOption(true)
